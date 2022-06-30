@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"title": "Primer producto",
+		"price": 300,
+		"thumbnail": "URL Foto Producto 1"
+	},
+	{
+		"id": 2,
+		"title": "Sgundo producto",
+		"price": 300,
+		"thumbnail": "URL Foto Producto 2"
+	},
+	{
+		"id": 3,
+		"title": "Tercer producto",
+		"price": 300,
+		"thumbnail": "URL Foto Producto 3"
+	},
+	{
+		"id": 4,
+		"title": "Cuarto producto",
+		"price": 300,
+		"thumbnail": "URL Foto Producto 4"
+	},
+	{
+		"id": 5,
+		"title": "Quinto producto",
+		"price": 300,
+		"thumbnail": "URL Foto Producto 5"
+	},
+	{
+		"id": 6,
+		"title": "Sexto producto",
+		"price": 300,
+		"thumbnail": "URL Foto Producto 6"
+	}
+]
